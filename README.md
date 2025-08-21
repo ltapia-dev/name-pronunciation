@@ -18,6 +18,3 @@ This will use docker-compose.yaml file to run the services for backend and front
 
 
 YugaByte credentials: flask_app/resource/database
-
-Admin UI credentials:
-email: hackathon2022@gmail.com
